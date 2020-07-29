@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-gutierrez/)](https://www.linkedin.com/in/juliana-gutierrez/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-gutierrez-2818b4b2/)](https://www.linkedin.com/in/juliana-gutierrez-2818b4b2/)
 
 
 <!--

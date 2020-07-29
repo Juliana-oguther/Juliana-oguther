@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! 😁
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-gutierrez-2818b4b2/)](https://www.linkedin.com/in/juliana-gutierrez-2818b4b2/)
+
 
 <!--
 **Juliana-oguther/Juliana-oguther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
